@@ -1,2 +1,1 @@
-# VimConfig
-vim配置选项
+# Vim教程
